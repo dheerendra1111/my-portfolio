@@ -240,8 +240,4 @@ This project is open source under the [MIT License](LICENSE).
 
 <div align="center">
 
-**Built with 💜 by [Dheerendra Singh Lodhi](https://github.com/dheerendra1111)**
-
-*B.Tech Computer Engineering · IET DAVV, Indore · Class of 2028*
-
 </div>
