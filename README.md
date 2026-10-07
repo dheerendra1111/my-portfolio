@@ -85,11 +85,7 @@ A modern, high-performance **personal developer portfolio** built with **React 1
 
 ### 🗓️ Journey
 - Vertical **timeline** of key milestones
-- Scroll-animated entry for each event
-
-### 🏆 Achievements
-- Achievement cards with contextual icons
-- Hover micro-animation
+- Scroll-animated entry for each even
 
 ### 📄 Resume
 - Full-bleed CTA section
